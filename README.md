@@ -2,7 +2,7 @@
 
 Postman clone using Javascript
 
-<!-- ### [Live Site](https://postmanclone-js.netlify.app/) -->
+### [Live Site](https://postmanclonejs.netlify.app/)
 
 ![Screenshot](https://i.ibb.co/pKg2Q9J/postman-clone.png)
 

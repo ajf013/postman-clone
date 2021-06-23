@@ -2,6 +2,7 @@
   "name": "postman-clone",
   "version": "1.0.0",
   "description": "A Simple Postman Clone",
+  "homepage" : "https://postmanclonejs.netlify.app/",
   "main": "index.js",
   "scripts": {
     "start": "snowpack dev",
@@ -12,7 +13,7 @@
     "url": "https://github.com/ajf013/postman-clone"
   },
   "keywords": [],
-  "author": "ajf013",
+  "author": "ajf013 https://franciscruz.netlify.app/",
   "license": "ISC",
   "dependencies": {
     "@codemirror/basic-setup": "^0.18.2",
